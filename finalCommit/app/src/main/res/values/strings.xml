@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Amazigh</string>
+    <string name="oefen">oefen</string>
+    <string name="spelen">spelen</string>
+    <string name="over_ons">over_ons</string>
+    <string name="score">score</string>
+    <string name="dieren">Dieren</string>
+    <string name="insecten">insecten</string>
+    <string name="eten">eten</string>
+</resources>
